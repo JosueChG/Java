@@ -1,7 +1,7 @@
 import java.io.*;
 import java.nio.file.*;
 
-/* Places .mp4 to files without extension inside a folder. */
+/* Adds .mp4 at the end of files without extension inside given directory. */
 
 class Add_MP4{
 
