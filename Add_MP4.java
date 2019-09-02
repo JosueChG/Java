@@ -1,7 +1,11 @@
 import java.io.*;
 import java.nio.file.*;
 
-/* Adds .mp4 at the end of files without extension inside given directory. */
+/*
+Adds .mp4 at the end of files without extension inside given directory.
+It is recommended to compile with the following command:
+javac -encoding UTF8 Add_MP4.java.
+*/
 
 class Add_MP4{
 
