@@ -1,7 +1,11 @@
 import java.io.*;
 import java.nio.file.*;
 
-/* Should compile with following command: javac -encoding UTF8 Remove_MP4_WEBM.java. */
+/*
+Removes .mp4 and .webm extensions for files inside given directory.
+It is recommended to compile with the following command:
+javac -encoding UTF8 Remove_MP4_WEBM.java.
+*/
 class Remove_MP4_WEBM{
 
 	public static void Remove_MP4_WEBM(){}
